@@ -132,17 +132,6 @@ Explore the working demo of the Women Safety Analytics system and its real-time 
 
 ---
 
-## Contributors
-
-- **Sushil Kumar Patra** (Team Lead)
-- Udai Raj Singh Negi
-- Himanshi Bharadwaj
-- Vansh Rana
-- Parth Atal
-- Abhishek Gargya
-
----
-
 ## License
 
 This project is proprietary and protected. Any copying, modification, distribution, or use of the system or its components is strictly prohibited without explicit written consent from the author.
